@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Chatbot Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kavaiya&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kavaiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-kavaiya" alt="yash-kavaiya" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yash_kavaiya_" target="blank"><img src="https://img.shields.io/twitter/follow/yash_kavaiya_?logo=twitter&style=for-the-badge" alt="yash_kavaiya_" /></a> </p>
 
 - 🔭 I’m currently working on **Tata Consultancy Service**
@@ -34,4 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kavaiya&show_icons=true&locale=en" alt="yash-kavaiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-kavaiya&" alt="yash-kavaiya" /></p>
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=Yash-Kavaiya-code&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=vineetagarwal-code&theme=holi-theme">
+</p>
 
