@@ -31,9 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kavaiya&show_icons=true&locale=en" alt="yash-kavaiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-kavaiya&" alt="yash-kavaiya" /></p>
-## Github Stats
-<p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=Yash-Kavaiya-code&theme=midnight-purple" style="margin-right:4px;">
-<img src="https://streak-stats.demolab.com/?user=vineetagarwal-code&theme=holi-theme">
-</p>
-
