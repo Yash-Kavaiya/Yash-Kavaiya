@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on **Tata Consultancy Service**
 - 👨‍💻 All of my projects are available at [https://jovian.ai/yash-kavaiya](https://jovian.ai/yash-kavaiya)
 - 📝 I regularly write articles on [https://medium.com/@yash.kavaiya3](https://medium.com/@yash.kavaiya3)
-
 - 💬 Ask me about **Generative AI**
+- Join Discord to Learn GenAI [Join Discord](https://discord.gg/cvHXS4b5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
