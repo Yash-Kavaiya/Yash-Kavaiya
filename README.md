@@ -1,8 +1,10 @@
 <h1 >Hi 👋, I'm Yash Kavaiya</h1>
 <h3>An AI Engineer who possesses a thorough understanding of business.</h3>
 <h4 >I’m an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.</h4>
-
-![Banner](AI Engineer.png)
+<p align="center">  
+  <br>
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src=".AI Engineer.png">
+<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kavaiya&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kavaiya" /> </p>
 
