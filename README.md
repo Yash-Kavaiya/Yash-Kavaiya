@@ -24,7 +24,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,anaconda,git,discord,fastapi,kubernetes,flask,docker,opencv,bash&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,anaconda,git,discord,fastapi,kubernetes,flask,docker,opencv,bash&perline=12)](https://skillicons.dev)
 
 
 
