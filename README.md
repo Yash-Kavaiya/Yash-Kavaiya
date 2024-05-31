@@ -16,11 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yash_kavaiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_kavaiya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashkavaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashkavaiya/" height="30" width="40" /></a>
-<a href="https://kaggle.com/yashkavaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashkavaiya" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://yashkavaiya.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://yashkavaiya.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://medium.com/https://yashkavaiya.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://yashkavaiya.hashnode.dev/" height="30" width="40" /></a>
+
+| Platform | Link |
+|----------|------|
+| ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/yashkavaiya/) |
+| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://x.com/Yash_Kavaiya_) |
+| ![Linktree](https://img.icons8.com/color/48/000000/linktree.png) | [Linktree](https://linktr.ee/yashkavaiya) |
+| ![Medium](https://img.icons8.com/color/48/000000/medium-logo.png) | [Medium](https://medium.com/@yash.kavaiya3) |
+| ![GitHub](https://img.icons8.com/color/48/000000/github.png) | [GitHub](https://github.com/Yash-Kavaiya) |
+| ![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png) | [Kaggle](https://www.kaggle.com/yashkavaiya) |
+| ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) | [Hugging Face](https://huggingface.co/yashkavaiya) |
+| ![Aspecta](https://img.icons8.com/color/48/000000/aspecta.png) | [Aspecta](https://aspecta.id/u/Yash-Kavaiya) |
 </p>
 
 
