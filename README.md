@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://app.daily.dev/yashkavaiya"><img src="https://api.daily.dev/devcards/v2/DYjCG4v1x05SPkfl8Fw3t.png?type=default&r=yb4" width="356" alt="Yash Kavaiya's Dev Card"/></a>
+
 | Platform | Link |
 |----------|------|
 | ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/yashkavaiya/) |
@@ -28,7 +28,6 @@
 | ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png) | [Hugging Face](https://huggingface.co/yashkavaiya) |
 | ![Aspecta](https://img.icons8.com/color/48/000000/aspecta.png) | [Aspecta](https://aspecta.id/u/Yash-Kavaiya) |
 </p>
-
 
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,anaconda,git,discord,fastapi,kubernetes,flask,docker,opencv,bash&perline=12)](https://skillicons.dev)
 
