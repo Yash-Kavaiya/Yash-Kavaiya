@@ -5,7 +5,7 @@
   <img alt="AI Engineer"  src="./AI Engineer.png">
 <p/>
 <h4 >I’m an AI Engineer skilled in creating AI solutions from start to finish using Google Cloud. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of Google Cloud’s tools and services. My focus is on using Generative AI and Large Language Models to improve Google Contact Centre AI. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.</h4>
-
+<a href="https://app.daily.dev/yashkavaiya"><img src="https://api.daily.dev/devcards/v2/DYjCG4v1x05SPkfl8Fw3t.png?type=default&r=yb4" width="356" alt="Yash Kavaiya's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kavaiya&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kavaiya" /> </p>
 
 - 🔭 I’m currently working on **Tata Consultancy Service**
