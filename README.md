@@ -32,21 +32,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,azure,anaconda,git,discord,fastapi,kubernetes,flask,docker,opencv,bash&perline=12)](https://skillicons.dev)
 
 
-<script
-    src="https://topmate-embed.s3.ap-south-1.amazonaws.com/v1/topmate-embed.js"
-    user-profile="https://topmate.io/embed/profile/yash_kavaiya?theme=D5534D"
-    btn-style='{"backgroundColor":"#000","color":"#fff","border":"1px solid #000"}'
-    embed-version="v1"
-    button-text="Let's Connect"
-    position-right="30px"
-    position-bottom="30px"
-    custom-padding="0px"
-    custom-font-size="16px"
-    custom-font-weight="500"
-    custom-width="200px"
-    async=""
-    defer=""
-  ></script>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-kavaiya&show_icons=true&locale=en&layout=compact" alt="yash-kavaiya" /></p>
 
