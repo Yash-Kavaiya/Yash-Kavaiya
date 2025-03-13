@@ -1,5 +1,5 @@
 # Yash Kavaiya 👨‍💻 
-### AI Engineer | Google Cloud Specialist | Generative AI Expert
+### Vibe AI Developer | Google Cloud Specialist | Conversation AI Expert
 ## 🚀 About Me
 
 > Building the future with AI.
