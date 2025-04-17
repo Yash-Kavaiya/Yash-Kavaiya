@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> Yash Kavaiya
 
 <div align="center">
-  <h3>🌟 Vibe AI Developer | Google Cloud Specialist | Conversation AI Expert 🌟</h3>
+  <h3>🌟 AI Engineer | Google Cloud Specialist | Conversation AI Expert 🌟</h3>
 </div>
 
 <div align="center">
