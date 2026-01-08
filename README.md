@@ -4,12 +4,6 @@
   <h3>🌟 AI Engineer | Google Cloud Specialist | Conversation AI Expert 🌟</h3>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-Enthusiast-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Solutions-orange?style=for-the-badge" />
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" height="25"> About Me
 
 <div align="center">
@@ -19,13 +13,6 @@
 </div>
 
 I'm a **Conversational AI Engineer** with 4+ years of hands-on experience delivering enterprise-grade solutions for Fortune 500 clients across retail, fintech, telecom, and healthcare
-
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"> | Machine Learning & Deep Learning |
-|:--:|:---|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"> | Large Language Models & Generative AI |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Counterclockwise%20Arrows%20Button.png" width="20"> | Google Contact Centre AI Implementation |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="20"> | Scalable AI Systems Architecture |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"> | Business-Focused AI Solutions |
 
 Currently working at **Accenture**, focusing on enterprise-scale AI implementations and innovations.
 
