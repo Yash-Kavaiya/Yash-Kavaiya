@@ -14,11 +14,11 @@
 
 <div align="center">
   <blockquote>
-    <i>Building the future with AI, one solution at a time.</i>
+    <i>Building autonomous AI agents and production conversational systems that drive enterprise value</i>
   </blockquote>
 </div>
 
-I'm an AI Engineer specializing in end-to-end AI solution development using Google Cloud Platform. My expertise spans:
+I'm a **Conversational AI Engineer** with 4+ years of hands-on experience delivering enterprise-grade solutions for Fortune 500 clients across retail, fintech, telecom, and healthcare
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"> | Machine Learning & Deep Learning |
 |:--:|:---|
@@ -30,28 +30,6 @@ I'm an AI Engineer specializing in end-to-end AI solution development using Goog
 Currently working at **Accenture**, focusing on enterprise-scale AI implementations and innovations.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25"> Tech Stack
-
-```mermaid
-mindmap
-  root((My Skills))
-    Core Languages
-      Python
-      JavaScript
-      SQL
-    Cloud Platforms
-      Google Cloud
-      Azure
-      AWS
-    AI/ML
-      LLMs
-      Generative AI
-      RAG
-      Computer Vision
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-```
 
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
