@@ -1,8 +1,5 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> Yash Kavaiya
 
-<div align="center">
-  <h3>🌟 AI Engineer | Google Cloud Specialist | Conversation AI Expert 🌟</h3>
-</div>
+![](https://gist.githubusercontent.com/Yash-Kavaiya/b8aa701e091ce6015287bdace45ca30b/raw/3ac09fbd8985a3cd82129450b26a7bd13bffd4f0/yashkavaiya.svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" height="25"> About Me
 
